@@ -2,3 +2,16 @@ h1 {
   color: blueviolet;
   font-size: 50px;
 }
+#unico {
+  color: blue;
+  font-size: 80px;
+}
+.parrafo {
+  color: coral;
+}
+.titulo {
+  color: aqua;
+}
+.fondo {
+  background-color: darkseagreen;
+}
