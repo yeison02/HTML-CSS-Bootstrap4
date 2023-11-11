@@ -1,0 +1,14 @@
+nav {
+  background: #7752fe;
+  padding: 0.5rem;
+}
+.nav-enlace {
+  background: #00a9ff;
+  padding: 0.5rem;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+.nav-enlace:hover {
+  background: #0174be;
+}
