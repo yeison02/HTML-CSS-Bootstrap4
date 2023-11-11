@@ -1,6 +1,8 @@
 nav {
   background: #7752fe;
   padding: 0.5rem;
+  display: flex;
+  justify-content: space-around;
 }
 .nav-enlace {
   background: #00a9ff;
