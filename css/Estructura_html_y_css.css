@@ -14,3 +14,13 @@ nav {
 .nav-enlace:hover {
   background: #0174be;
 }
+
+@media (max-width: 600px) {
+  nav {
+    background: #000;
+    flex-direction: column;
+  }
+  .nav-enlace {
+    margin: 0.5rem;
+  }
+}
