@@ -35,5 +35,13 @@ Este proyecto es un curso introductorio diseñado para enseñar los fundamentos 
 ## Cómo Usar Este Repositorio
 
 1. Clona este repositorio en tu máquina local:
+   git clone https://github.com/yeison02/HTML-CSS-Bootstrap4.git
+
+## Recursos Adicionales
+
+- [W3Schools - HTML Tutorial] (https://www.w3schools.com/html/)
+- [CSS-Tricks - A Complete Guide to Flexbox] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid Layout - MDN Web Docs] (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [Bootstrap Documentation] (https://getbootstrap.com/docs/5.3/getting-started/introduction/)  
 
 
